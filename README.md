@@ -37,6 +37,7 @@ source .venv/bin/activate
 python fertilizer_mix_calculator.py
 
 # Пример работы
+```
 АГРО-КАЛЬКУЛЯТОР СМЕШИВАНИЯ ХИМИИ (ОФЛАЙН) для КФХ и ЛПХ
 ==================================================
 
@@ -81,13 +82,7 @@ python fertilizer_mix_calculator.py
 
 Хотите сохранить результат в файл? (Да/Нет): да
 Результат сохранен в файл: result_2026-10-23_00-12-04.txt
-
-# Структура проекта
-Agro_calc/
-├── fertilizer_mix_calculator.py   # основной скрипт
-├── preparations.json              # база препаратов и культур
-├── .gitignore                     # исключения для Git
-└── README.md                      # этот файл
+```
 
 # Автор
 Илья Шуличенко — GitHub
