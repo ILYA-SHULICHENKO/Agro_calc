@@ -1,0 +1,29 @@
+{
+  "1": {
+    "culture_name": "Картофель",
+    "preparations": {
+      "1": {"name": "Лазурит, СП / ВДГ", "rate_per_ha": 0.7, "max_safe_percent": 0.5},
+      "2": {"name": "Эстерон, КЭ", "rate_per_ha": 0.8, "max_safe_percent": 0.4},
+      "3": {"name": "Инсайд, СК", "rate_per_ha": 0.3, "max_safe_percent": 0.2},
+      "4": {"name": "Борей, СК", "rate_per_ha": 0.12, "max_safe_percent": 0.1},
+      "5": {"name": "Танрек, ВРК", "rate_per_ha": 0.2, "max_safe_percent": 0.15}
+    }
+  },
+  "2": {
+    "culture_name": "Зерновые культуры (Пшеница, Ячмень)",
+    "preparations": {
+      "1": {"name": "Балерина, СЭ", "rate_per_ha": 0.4, "max_safe_percent": 0.3},
+      "2": {"name": "Гранстар Про, ВДГ", "rate_per_ha": 0.02, "max_safe_percent": 0.05},
+      "3": {"name": "Колосаль Про, КЭ", "rate_per_ha": 0.4, "max_safe_percent": 0.3},
+      "4": {"name": "Борей, СК", "rate_per_ha": 0.1, "max_safe_percent": 0.1}
+    }
+  },
+  "3": {
+    "culture_name": "Подсолнечник (и Кукуруза)",
+    "preparations": {
+      "1": {"name": "Гамбит, СК", "rate_per_ha": 3.0, "max_safe_percent": 1.5},
+      "2": {"name": "Симба, КЭ", "rate_per_ha": 1.5, "max_safe_percent": 1.0},
+      "3": {"name": "Дублон, СК", "rate_per_ha": 1.2, "max_safe_percent": 0.8}
+    }
+  }
+}
